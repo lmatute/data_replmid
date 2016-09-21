@@ -1,0 +1,26 @@
+"Ticker","Sector","Industry","Market Cap","P/S","EPS growth next year","EPS growth past 5 years","Return on Investment","Gross Margin","Operating Margin","Profit Margin","Price","Target Price"
+"AEE","Utilities","Electric Utilities",12154.26,2.03,8.37%,32.50%,6.20%,85.50%,21.80%,10.40%,50.10,52.79
+"AEP","Utilities","Electric Utilities",31714.48,1.98,3.66%,7.30%,6.30%,82.50%,19.90%,12.50%,65.01,72.03
+"AWK","Utilities","Water Utilities",13376.70,4.12,7.34%,12.70%,6.60%,,34.00%,15.10%,75.15,77.46
+"CMS","Utilities","Electric Utilities",11879.14,1.93,7.98%,6.60%,6.70%,64.10%,19.20%,8.80%,42.70,45.10
+"CNP","Utilities","Gas Utilities",10107.43,1.45,6.36%,-28.50%,10.80%,,13.20%,-10.70%,23.47,24.08
+"D","Utilities","Electric Utilities",46942.03,4.25,2.11%,-9.20%,6.30%,96.60%,31.00%,17.40%,75.63,80.33
+"DTE","Utilities","Electric Utilities",16806.31,1.70,4.06%,1.50%,5.50%,,12.20%,7.50%,93.89,102.02
+"DUK","Utilities","Electric Utilities",55237.13,2.41,2.92%,6.10%,4.90%,70.00%,22.40%,11.40%,80.17,85.47
+"ED","Utilities","Electric Utilities",23067.63,1.91,4.11%,3.20%,6.70%,74.70%,19.70%,9.50%,76.54,75.04
+"EIX","Utilities","Electric Utilities",23915.36,2.11,6.27%,-2.00%,6.50%,62.40%,15.70%,7.90%,73.36,79.47
+"ES","Utilities","Diversified Utilities",17135.11,2.30,6.64%,4.70%,6.00%,,23.70%,11.60%,54.43,60.02
+"ETR","Utilities","Electric Utilities",14170.53,1.29,-22.01%,-16.50%,1.50%,86.80%,-2.50%,1.60%,79.25,82.25
+"EXC","Utilities","Diversified Utilities",31332.84,1.10,2.14%,-8.10%,6.40%,58.50%,10.60%,4.80%,33.91,38.35
+"FE","Utilities","Electric Utilities",14339.50,0.96,-1.61%,-10.90%,4.70%,71.70%,3.90%,-4.00%,33.74,36.13
+"LNT","Utilities","Electric Utilities",8818.95,2.72,5.98%,5.10%,6.60%,94.20%,18.20%,12.20%,38.85,39.70
+"NEE","Utilities","Electric Utilities",57694.79,3.46,5.68%,5.00%,6.50%,,28.50%,15.50%,125.07,
+"PCG","Utilities","Electric Utilities",31233.09,1.85,-1.59%,-8.70%,4.50%,67.40%,7.40%,4.50%,62.55,67.33
+"PEG","Utilities","Diversified Utilities",21373.70,2.25,0.24%,1.50%,8.30%,,26.00%,14.80%,42.60,46.97
+"PNW","Utilities","Electric Utilities",8556.40,2.43,5.40%,5.30%,7.30%,,23.70%,12.00%,76.83,77.71
+"PPL","Utilities","Electric Utilities",23544.33,3.16,-6.81%,1.60%,7.90%,90.10%,38.20%,23.50%,34.77,37.97
+"SCG","Utilities","Electric Utilities",10237.20,2.50,5.36%,11.90%,8.50%,72.60%,25.80%,12.90%,72.63,75.00
+"SO","Utilities","Electric Utilities",50528.87,2.90,3.92%,1.90%,6.30%,71.10%,25.00%,13.40%,52.14,52.75
+"SRE","Utilities","Diversified Utilities",27115.41,2.72,7.17%,13.50%,5.70%,96.70%,12.00%,9.60%,108.42,118.92
+"WEC","Utilities","Electric Utilities",19333.66,2.63,5.87%,4.10%,4.30%,64.30%,22.40%,12.10%,61.26,63.60
+"XEL","Utilities","Electric Utilities",21130.77,1.95,5.51%,3.70%,5.90%,93.10%,19.90%,9.90%,41.52,43.55
